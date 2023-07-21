@@ -1,7 +1,5 @@
 # Hand Gesture Recognition for Hand Steerable Light System using Nvidia Jetson Nano
 
-![Gesture Recognition](https://example.com/gesture_recognition.png)
-
 ## Overview
 
 This project aims to create a hand gesture recognition system using the Nvidia Jetson Nano platform to control a hand-steerable light system. The gesture recognition system uses computer vision and machine learning techniques to detect and recognize hand gestures, enabling users to interact with the light system in a natural and intuitive way.
@@ -30,8 +28,8 @@ The Nvidia Jetson Nano, with its powerful GPU and CUDA support, provides the nec
 1. Clone the repository to your Jetson Nano:
 
 ```bash
-git clone https://github.com/your-username/hand-gesture-recognition.git
-cd hand-gesture-recognition
+git clone https://github.com/saikk9834/Hand-Gesture-Recognition-for-Hand-Steerable-Light-System-using-Nvidia-Jetson-Nano.git
+cd Hand-Gesture-Recognition-for-Hand-Steerable-Light-System-using-Nvidia-Jetson-Nano
 ```
 
 2. Set up the virtual environment:
@@ -88,7 +86,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, please contact us at example@example.com.
+For any questions or inquiries, please contact me at saikk9834@gmail.com
 
 ---
 
